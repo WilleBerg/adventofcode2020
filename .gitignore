@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vscode/launch.json
+*.json
+day2/day2.ilk
+day2/day2.pdb
+*.pdb
